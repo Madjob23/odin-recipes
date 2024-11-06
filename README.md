@@ -1,5 +1,5 @@
 # Odin Recipes
-- Part of the Odin Project learning curriculum's Foundation Course
+- [Part of the Odin Project's Foundations Course](https://www.theodinproject.com/lessons/foundations-recipes).
 - The objective is to build a website containing recipes, with:
     - a homepage, linking to all other pages which will contain individual recipes
     - recipe pages, complete with a photo, description, unordered list of ingredients and an ordered list of directions.
